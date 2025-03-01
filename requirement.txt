@@ -1,0 +1,12 @@
+pandas 
+numpy 
+matplotlib.pyplot 
+seaborn
+RandomForestClassifier 
+sklearn.model_selection 
+sklearn.ensemble 
+sklearn.metrics 
+joblib
+.\venv\Scripts\activate
+python predictive_maintenance.py
+use \history for seen past data
